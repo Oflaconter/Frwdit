@@ -12,11 +12,11 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Frwdit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oflaconter/Frwdit)
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+
+
 
 Deploy in your vps
 ```sh
